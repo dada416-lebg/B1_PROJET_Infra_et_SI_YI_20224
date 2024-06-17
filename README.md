@@ -7,5 +7,5 @@
 - détailler l’utilisation des outils/services mis en place
 - comment sauvegarder un nouveau dossier ?
 - comment restaurer à une date antérieure ?
-## Document d'installation
+## Document d'installation (téléchargez le fichier word)
 - le tutoriel de notre projet
